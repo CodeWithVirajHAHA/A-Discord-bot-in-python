@@ -1,0 +1,2 @@
+Discord : Mac installation : python3 -m pip install -U discord.py[voice]
+Discord : Windows installation : py -3 -m pip install -U discord.py[voice]
